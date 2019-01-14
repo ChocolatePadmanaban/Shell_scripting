@@ -1,0 +1,20 @@
+ 1275  cd Shell_scripting-master/
+ 1276  ls
+ 1277  git init
+ 1278  git merge https://github.com/ChocolatePadmanaban/Shell_scripting
+ 1279  git pull https://github.com/ChocolatePadmanaban/Shell_scripting
+ 1280  git branch
+ 1281  git remote add origin https://github.com/ChocolatePadmanaban/Shell_scripting
+ 1282  git remote -v
+ 1283  git add *
+ 1284  git commit -m "check Commit from anther repo"
+ 1285  git push origin master
+ 1286  history 20
+ 1287  history 10
+ 1288  git 12
+ 1289  history 12
+ 1290  history 15
+ 1291  history 16 > cat add_a_repo.txt
+ 1292  ls
+ 1293  man cat
+ 1294  history 20 > add_a_repo.txt
